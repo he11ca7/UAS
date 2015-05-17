@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>closed_eye_16.png</file>
+        <file>closed_eye_32.png</file>
+        <file>closed_eye_64.png</file>
+        <file>closed_eye_128.png</file>
+        <file>closed_eye_256.png</file>
+        <file>closed_eye_512.png</file>
+        <file>open_eye_16.png</file>
+        <file>open_eye_32.png</file>
+        <file>open_eye_64.png</file>
+        <file>open_eye_128.png</file>
+        <file>open_eye_256.png</file>
+        <file>open_eye_512.png</file>
+    </qresource>
+</RCC>
